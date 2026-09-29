@@ -1,0 +1,16 @@
+*.exe
+*.dll
+*.scr
+*.com
+*.msi
+*.zip
+*.7z
+*.rar
+*.dmp
+*.pcap
+*.etl
+*.evtx
+*.log
+**/staging/
+**/sandbox_payload/
+**/reports-raw/
